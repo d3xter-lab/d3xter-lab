@@ -4,11 +4,11 @@
 
 ### Security Researcher
 
-* Security Researcher in mobile security industry :stuck_out_tongue_winking_eye:
+* Security Researcher in security field :stuck_out_tongue_winking_eye:
 
 ### Interest
 
-* Mobile Security (Android and iOS, but especially Android)
 * Application Security
-* Work automation
-* AWS, Terraform, etc :smile:
+* Mobile Security (Android and iOS)
+* Automation
+* Cloud such as AWS, GCP, etc :smile:
